@@ -1,4 +1,6 @@
 # Testing-Main-and-Branch
 test
 
-Edit on branch 1
+First Edit on branch 1
+
+Second edit on branch 1
